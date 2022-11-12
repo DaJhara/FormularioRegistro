@@ -1,10 +1,12 @@
   body{
     background-image: url("city.jpg");
-  }  
+  }
   .registro {
     width: 100%;
     max-width: 700px;
+
     background: #888;
+    opacity: 90%;
     padding: 20px;
     margin: auto;
     margin-top: 40px;
